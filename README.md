@@ -44,7 +44,7 @@ Program ini menggunakan 3 file utama, yaitu `Mahasiswa.java`, `Menu.java`, dan `
       - Tombol "Delete" akan muncul.
       - Klik "Delete", lalu konfirmasi penghapusan.
       - Data dihapus dari ArrayList, dan tabel diperbarui.
-4. Penyimpanan Data
+5. Penyimpanan Data
    - Saat program berjalan, data mahasiswa disimpan dalam ArrayList.
    - Data tidak akan tersimpan permanen karena belum menggunakan database atau file eksternal.
 
