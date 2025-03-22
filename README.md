@@ -30,16 +30,16 @@ Program ini menggunakan 3 file utama, yaitu `Mahasiswa.java`, `Menu.java`, dan `
       - Delete → Menghapus data mahasiswa dari tabel.
       - Cancel → Mengosongkan form input.
 3. Proses CRUD (Create, Read, Update, Delete)
-   a. Menambah Data Mahasiswa
+   - Menambah Data Mahasiswa
       - Pengguna mengisi NIM, Nama, Jenis Kelamin, Transportasi di form.
       - Klik tombol "Add", data baru disimpan ke ArrayList listMahasiswa.
       - Tabel diperbarui agar data baru muncul.
-   b. Mengupdate Data Mahasiswa
+   - Mengupdate Data Mahasiswa
       - Klik salah satu baris di tabel → Data akan muncul di form input.
       - Tombol "Add" berubah menjadi "Update".
       - Pengguna mengubah data, lalu klik "Update".
       - Data di ArrayList diperbarui dan tabel di-refresh.
-   c. Menghapus Data Mahasiswa
+   - Menghapus Data Mahasiswa
       - Klik salah satu baris di tabel.
       - Tombol "Delete" akan muncul.
       - Klik "Delete", lalu konfirmasi penghapusan.
